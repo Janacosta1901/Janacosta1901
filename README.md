@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Janacosta1901&layout=compact&theme=dracula" alt="Linguagens">
 </div>
 
-![Janaína-Dev-Literária](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZqdGN5Ymx6dGZ1cWQ1Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z3dkeWl5eWl5eWl5eWl5eWl5eWl5eWl5eWl5/giphy.gif)
+
+![BookLover](https://media.giphy.com/media/XcQ7Ue8Z3XeKXvz5e9/giphy.gif)
