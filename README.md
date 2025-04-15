@@ -27,5 +27,4 @@ You can click the Preview link to take a look at your changes.
 
 
 
-![Dev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y3dkeWl5eWl5eWl5eWl5eWl5eWl5eWl5/giphy.gif)
 
