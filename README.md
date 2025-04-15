@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![BookLover](https://media.giphy.com/media/XcQ7Ue8Z3XeKXvz5e9/giphy.gif)
+![CoderGirl](https://media.giphy.com/media/LnUtcjr2nL2j0wZ0j8/giphy.gif)
