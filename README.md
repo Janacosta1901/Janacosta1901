@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
-![Janaína-Dev-Literária](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHZqdGN5Ymx6dGZ1cWQ1Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z2Z6Z3dkeWl5eWl5eWl5eWl5eWl5eWl5eWl5eWl5/giphy.gif)
+
