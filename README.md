@@ -17,7 +17,7 @@ Janacosta1901/Janacosta1901 is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-📊 𝙼𝚒𝚗𝚑𝚊𝚜 �𝚜𝚝𝚊𝚝í𝚜𝚝𝚒𝚌𝚊𝚜  
+📊 𝙼𝚒𝚗𝚑𝚊𝚜 E𝚜𝚝𝚊𝚝í𝚜𝚝𝚒𝚌𝚊𝚜  
 
 <div style="display: flex; align-items: center; gap: 20px;">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Janacosta1901&show_icons=true&theme=dracula&include_all_commits=true" alt="Estatísticas">
