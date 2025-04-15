@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Janacosta1901
+👋 Hi, I’m @Janacosta1901
 
 ### 🌱 𝙳𝚎𝚜𝚎𝚗𝚟𝚘𝚕𝚟𝚎𝚍𝚘𝚛𝚊 𝚎𝚖 𝚏𝚘𝚛𝚖𝚊çã𝚘 | 𝙰𝚙𝚛𝚎𝚗𝚍𝚎𝚗𝚍𝚘:  
 <div style="display: inline_block; margin-bottom: 10px;">
@@ -7,8 +7,9 @@
 </div>
 
 
+
   
-- 📚 **Desafio Literário-Dev**  
+📚 **Desafio Literário-Dev**  
 Se você fosse um livro, qual erro de compilação teria na contracapa?
 
 
@@ -25,4 +26,6 @@ You can click the Preview link to take a look at your changes.
 </div>
 
 
+
+![Dev](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzF6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y2Z6Y3dkeWl5eWl5eWl5eWl5eWl5eWl5eWl5/giphy.gif)
 
